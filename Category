@@ -1,0 +1,25 @@
+
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "House",
+      "imageUrl": "house.png"
+    },
+    {
+      "id": 2,
+      "name": "Hotel",
+      "imageUrl": "hotel.png"
+    },
+    {
+      "id": 3,
+      "name": "Apartment",
+      "imageUrl": "appartment.png"
+    },
+    {
+      "id": 4,
+      "name": "Penthouse",
+      "imageUrl": "penthouse.png"
+    }
+]
+}
