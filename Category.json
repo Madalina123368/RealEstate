@@ -2,21 +2,21 @@
 {
 "id": 1,
 "name": "House",
-"imageUrl": "house.png"
+"imageUrl": "Resources/Images/house.png"
 },
 {
 "id": 2,
 "name": "Hotel",
-"imageUrl": "hotel.png"
+"imageUrl": "Resources/Images/hotel.png"
 },
 {
 "id": 3,
 "name": "Apartment",
-"imageUrl": "appartment.png"
+"imageUrl": "Resources/Images/appartment.png"
 },
 {
 "id": 4,
 "name": "Penthouse",
-"imageUrl": "penthouse.png"
+"imageUrl": "Resources/Images/penthouse.png"
 }
 ]
