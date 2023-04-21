@@ -1,0 +1,196 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "House",
+      "imageUrl": "house.png"
+    },
+    {
+      "id": 2,
+      "name": "Hotel",
+      "imageUrl": "hotel.png"
+    },
+    {
+      "id": 3,
+      "name": "Apartment",
+      "imageUrl": "appartment.png"
+    },
+    {
+      "id": 4,
+      "name": "Penthouse",
+      "imageUrl": "penthouse.png"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Andrew",
+      "email": "andrew@email.com",
+      "password": "And@1234",
+      "phone": "93524682"
+    },
+    {
+      "id": 2,
+      "name": "Bob",
+      "email": "bob@email.com",
+      "password": "Bb@1234",
+      "phone": "93925611"
+    },
+    {
+      "id": 3,
+      "name": "John",
+      "email": "john@email.com",
+      "password": "Jn@1234",
+      "phone": "93624627"
+    },
+    {
+      "id": 4,
+      "name": "Chris",
+      "email": "chris@email.com",
+      "password": "Crs@1234",
+      "phone": "93304682"
+    }
+  ],
+  "properties": [
+    {
+      "id": 1,
+      "name": "Jumeirah Metro City",
+      "imageUrl": "imagep1.jpg",
+      "price": 800000,
+      "isTrending": false,
+      "categoryId": 1,
+      "userId": 1,
+      "detail": "Allsopp Real Estate are pleased to offer this stunning one bedroom apartment in Emaar's 5242, Dubai Marina.Amazing full marina views, from all rooms, this one bedroom apartment is offered vacant and spread over 696 sq. ft. Perfect for short term holiday lets or as a first home.",
+      "address": "Ciel Tower, Dubai Marina, Dubai"
+    },
+    {
+      "id": 2,
+      "name": "Stuning Marina",
+      "imageUrl": "imagep2.jpg",
+      "price": 700000,
+      "isTrending": true,
+      "categoryId": 1,
+      "userId": 1,
+      "detail": "Sky golobal Real Estate is pleased to offer this stunning house in Emaar's 5242, Dubai Marina.Amazing full marina views, from all rooms, this one bedroom apartment is offered vacant and spread over 696 sq. ft. Perfect for short term holiday lets or as a first home.",
+      "address": "Dorrabay, Dubai Marina, Dubai"
+    },
+    {
+      "id": 3,
+      "name": "Distress Deal",
+      "imageUrl": "imagep3.jpg",
+      "price": 200000,
+      "isTrending": false,
+      "categoryId": 1,
+      "userId": 1,
+      "detail": "Allsopp Real Estate are pleased to offer this stunning one bedroom apartment in Emaar's 5242, Dubai Marina.Amazing full marina views, from all rooms, this one bedroom apartment is offered vacant and spread over 696 sq. ft. Perfect for short term holiday lets or as a first home.",
+      "address": "Dorrabay, Dubai Marina, Dubai"
+    },
+    {
+        "id": 4,
+        "name": "Panoramic Views",
+        "imageUrl": "imagep4.jpg",
+        "price": 900000,
+        "isTrending": false,
+        "categoryId": 2,
+        "userId": 1,
+        "detail": "Jumeirah Real Estate is pleased to offer this stunning one bedroom apartment in Emaar's 5242, Dubai Marina.Amazing full marina views, from all rooms, this one bedroom apartment is offered vacant and spread over 696 sq. ft. Perfect for short term holiday lets or as a first home.",
+        "address": "TFG Marina , Dubai Marina, Dubai"
+    },
+    {
+        "id": 5,
+        "name": "Palm View",
+        "imageUrl": "imagep5.jpg",
+        "price": 750000,
+        "isTrending": true,
+        "categoryId": 2,
+        "userId": 1,
+        "detail": "Allsopp Real Estate are pleased to offer this stunning one bedroom apartment in Emaar's 5242, Dubai Marina.Amazing full marina views, from all rooms, this one bedroom apartment is offered vacant and spread over 696 sq. ft. Perfect for short term holiday lets or as a first home.",
+        "address": "The Palm Tower, Palm Jumeirah, Dubai"
+    },
+    {
+        "id": 6,
+        "name": "Full Marina View",
+        "imageUrl": "imagep6.jpg",
+        "price": 200000,
+        "isTrending": false,
+        "categoryId": 3,
+        "userId": 1,
+        "detail": "Allsopp Real Estate are pleased to offer this stunning one bedroom apartment in Emaar's 5242, Dubai Marina.Amazing full marina views, from all rooms, this one bedroom apartment is offered vacant and spread over 696 sq. ft. Perfect for short term holiday lets or as a first home.",
+        "address": "Dorrabay, Dubai Marina, Dubai"
+    },
+    {
+        "id": 7,
+        "name": "Avant Tower",
+        "imageUrl": "imagep7.jpg",
+        "price": 300000,
+        "isTrending": true,
+        "categoryId": 3,
+        "userId": 1,
+        "detail": "We are pleased to offer this stunning two bed apartment in Emaar's 5243, Dubai.Amazing full marina views, from all rooms, this two bedroom apartment is offered vacant and spread over 850 sq. ft. Perfect for short term holiday lets or as a first home.",
+        "address": "Attessa, Marina Promenade, Dubai Marina, Dubai"
+    },
+    {
+        "id": 8,
+        "name": "Distress Deal",
+        "imageUrl": "imagep8.jpg",
+        "price": 400000,
+        "isTrending": false,
+        "categoryId": 3,
+        "userId": 1,
+        "detail": "Eithad Real Estate is pleased to offer this stunning one bedroom apartment in Emaar's 5242, Dubai Marina.Amazing full marina views, from all rooms, this one bedroom apartment is offered vacant and spread over 696 sq. ft. Perfect for short term holiday lets or as a first home.",
+        "address": "Tower B1, Vida Hotel, The Hills, Dubai"
+    },
+    {
+        "id": 9,
+        "name": "Sea View",
+        "imageUrl": "imagep9.jpg",
+	    "price": 880000,
+	    "isTrending": false,
+	    "categoryId": 3,
+	    "userId": 1,
+	    "detail":"Kernizia Real Estate is pleased to offer this stunning one bedroom apartment in Emaar's 5242, Dubai Marina.Amazing full marina views, from all rooms,this one bedroom apartment is offered vacant and spread over 696 sq. ft. Perfect for short term holiday lets or as a first home.",
+	    "address": "Vida Residence 2, Vida Residence, Dubai" 
+    },
+    {
+      "id": 10,
+      "name": "Jenkins Height",
+      "imageUrl": "imagep10.jpg",
+      "price": 5500000,
+      "isTrending": false,
+      "categoryId": 4,
+      "userId": 1,
+      "detail": "Astro Properties are delighted to present this Excellent investment opportunity to own a hotel room in the heart of Dubai Marina! Wyndham Dubai Marina is an upscale 4* hotel with breathtaking views of the Arabian Sea and Dubai Marina. The hotel is very popular through the guests and visitors and keeps high ranking on booking. com and similar booking portals through all time.",
+      "address": "Artesia C, Artesia, DAMAC Hills, Dubai"
+    },
+    {
+      "id": 11,
+      "name": "Takishi Penhouse",
+      "imageUrl": "imagep11.jpg",
+      "price": 800000,
+      "isTrending": false,
+      "categoryId": 4,
+      "userId": 1,
+      "detail": "Allsopp Real Estate are pleased to offer this stunning one bedroom apartment in Emaar's 5242, Dubai Marina.Amazing full marina views, from all rooms, this one bedroom apartment is offered vacant and spread over 696 sq. ft. Perfect for short term holiday lets or as a first home.",
+      "address": "Damac Maison The Distinction, Downtown Dubai, Dubai"
+    },
+    {
+      "id": 12,
+      "name": "Blue World",
+      "imageUrl": "imagep12.jpg",
+      "price": 650000,
+      "isTrending": true,
+      "categoryId": 4,
+      "userId": 1,
+      "detail": "Elan Real Estate delighted to present Ciel Tower that means Sky in French, is in Dubai Marina one of the magnificent height of 360 meters and is a breathtaking building that will set a new global milestone as the world's tallest hotel upon completion. The architectural marvel is the newest landmark added to the world-famous skyline of the Marina. Designed by the award-winning London-based architect NORR, Ciel Tower features a stunning exterior, futuristic interiors and a spectacular glass observation deck that provides incredible 360-degree views of Dubai Marina, Palm Jumeirah and the Arab Gulf. ",
+      "address": "Dorrabay, Dubai Marina, Dubai"
+    }
+  ],
+  "bookmarks": [
+    {
+      "id": 1,
+      "status": true,
+      "userId": 1,
+      "propertyId": 1
+    }
+  ]
+}
