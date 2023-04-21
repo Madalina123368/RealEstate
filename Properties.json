@@ -56,7 +56,7 @@
 {
 "id": 6,
 "name": "Full Marina View",
-"imageUrl": "imagep6.jpg",
+"imageUrl": "Resources/Images/imagep6.jpg",
 "price": 200000,
 "isTrending": false,
 "categoryId": 3,
@@ -67,7 +67,7 @@
 {
         "id": 7,
         "name": "Avant Tower",
-        "imageUrl": "imagep7.jpg",
+        "imageUrl": "Resources/Images/imagep7.jpg",
         "price": 300000,
         "isTrending": true,
         "categoryId": 3,
@@ -78,7 +78,7 @@
     {
         "id": 8,
         "name": "Distress Deal",
-        "imageUrl": "imagep8.jpg",
+        "imageUrl": "Resources/Images/imagep8.jpg",
         "price": 400000,
         "isTrending": false,
         "categoryId": 3,
@@ -89,7 +89,7 @@
     {
         "id": 9,
         "name": "Sea View",
-        "imageUrl": "imagep9.jpg",
+        "imageUrl": "Resources/Images/imagep9.jpg",
 	    "price": 880000,
 	    "isTrending": false,
 	    "categoryId": 3,
@@ -100,7 +100,7 @@
     {
       "id": 10,
       "name": "Jenkins Height",
-      "imageUrl": "imagep10.jpg",
+      "imageUrl": "Resources/Images/imagep10.jpg",
       "price": 5500000,
       "isTrending": false,
       "categoryId": 4,
@@ -111,7 +111,7 @@
     {
       "id": 11,
       "name": "Takishi Penhouse",
-      "imageUrl": "imagep11.jpg",
+      "imageUrl": "Resources/Images/imagep11.jpg",
       "price": 800000,
       "isTrending": false,
       "categoryId": 4,
@@ -122,7 +122,7 @@
     {
       "id": 12,
       "name": "Blue World",
-      "imageUrl": "imagep12.jpg",
+      "imageUrl": "Resources/Images/imagep12.jpg",
       "price": 650000,
       "isTrending": true,
       "categoryId": 4,
