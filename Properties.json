@@ -12,7 +12,7 @@
 {
 "id": 2,
 "name": "Stunning Marina",
-"imageUrl": "imagep2.jpg",
+"imageUrl": "Resources/Images/imagep2.jpg",
 "price": 700000,
 "isTrending": true,
 "categoryId": 1,
@@ -23,7 +23,7 @@
 {
 "id": 3,
 "name": "Distress Deal",
-"imageUrl": "imagep3.jpg",
+"imageUrl": "Resources/Images/imagep3.jpg",
 "price": 200000,
 "isTrending": false,
 "categoryId": 1,
@@ -34,7 +34,7 @@
 {
 "id": 4,
 "name": "Panoramic Views",
-"imageUrl": "imagep4.jpg",
+"imageUrl": "Resources/Images/imagep4.jpg",
 "price": 900000,
 "isTrending": false,
 "categoryId": 2,
@@ -45,7 +45,7 @@
 {
 "id": 5,
 "name": "Palm View",
-"imageUrl": "imagep5.jpg",
+"imageUrl": "Resources/Images/imagep5.jpg",
 "price": 750000,
 "isTrending": true,
 "categoryId": 2,
