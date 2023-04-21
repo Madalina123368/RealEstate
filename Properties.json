@@ -1,7 +1,7 @@
 [{
 "id": 1,
 "name": "Jumeirah Metro City",
-"imageUrl": "imagep1.jpg",
+"imageUrl": "Resources/Images/imagep1.jpg",
 "price": 800000,
 "isTrending": false,
 "categoryId": 1,
